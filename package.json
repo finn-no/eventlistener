@@ -1,6 +1,6 @@
 {
   "name": "eventlistener",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Super-simple wrapper around addEventListener and attachEvent (old IE). Does not handle different Event-objects.",
   "main": "./eventlistener.js",
   "repository": {
